@@ -1,4 +1,4 @@
-# Jeu-des-couleurs
+# Jeu des couleurs
 
 Dans ce projet, nous allons construire un jeu de couleurs en Tkinter python. Le jeu de couleurs est simple et facile à jouer.
 Différents noms de couleurs seront affichés avec différentes couleurs de texte.
